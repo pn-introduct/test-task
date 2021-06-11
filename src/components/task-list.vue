@@ -38,6 +38,5 @@ export default {
 .no-tasks {
   text-align: start;
   margin-top: 1rem;
-
 }
 </style>
